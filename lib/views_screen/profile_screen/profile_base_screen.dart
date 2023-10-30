@@ -2180,7 +2180,7 @@ class _ProfileBasicScreenState extends State<ProfileBasicScreen> {
                                                               ),
                                                               child: Padding(
                                                                 padding:
-                                                                    EdgeInsets
+                                                                    const EdgeInsets
                                                                         .all(2),
                                                                 child: Material(
                                                                   color: ColorApp
